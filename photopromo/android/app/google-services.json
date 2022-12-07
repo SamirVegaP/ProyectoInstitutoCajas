@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387518503395",
+    "project_id": "cajas-promo-album",
+    "storage_bucket": "cajas-promo-album.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387518503395:android:e646318c39e1459cfa28d6",
+        "android_client_info": {
+          "package_name": "com.samirdev.photopromo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387518503395-4fcks6cul2on6eua4s7q3cbg0k471nm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4ZYcWNiOVBtDpV2M7fSiLTqhNwch7jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387518503395-4fcks6cul2on6eua4s7q3cbg0k471nm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

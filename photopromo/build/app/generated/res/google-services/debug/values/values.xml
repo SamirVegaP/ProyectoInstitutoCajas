@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">387518503395-4fcks6cul2on6eua4s7q3cbg0k471nm9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">387518503395</string>
+    <string name="google_api_key" translatable="false">AIzaSyCV4ZYcWNiOVBtDpV2M7fSiLTqhNwch7jQ</string>
+    <string name="google_app_id" translatable="false">1:387518503395:android:e646318c39e1459cfa28d6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCV4ZYcWNiOVBtDpV2M7fSiLTqhNwch7jQ</string>
+    <string name="google_storage_bucket" translatable="false">cajas-promo-album.appspot.com</string>
+    <string name="project_id" translatable="false">cajas-promo-album</string>
+</resources>
